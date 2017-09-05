@@ -1,5 +1,2 @@
 node_modules
-public/styles/*
-public/scripts/*
-public/assets/*
 .DS_Store
